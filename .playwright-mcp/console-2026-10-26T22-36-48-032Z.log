@@ -1,0 +1,6 @@
+[-1735515ms] [ERROR] Access to XMLHttpRequest at 'https://nlp.writefull.ai/user/suggestion-quotas' from origin 'https://www.overleaf.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.overleaf.com/project/695869679f6f0a7a51e1c236:0
+[-1735514ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://nlp.writefull.ai/user/suggestion-quotas:0
+[ -148518ms] [ERROR] Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR @ https://realtime.cloud.gist.build/api/v3/sse?userToken=Njk1N2Y5MTFiNjEyOWI4MTUxNjQ5Y2Uz&siteId=6420c27bb72163938e7d&sessionId=d740b0db-8d70-4795-adc1-9249167190e2&platform=web:0
+[-3851844ms] [INFO] Writefull loaded (version 2025.68.0) @ https://cdn.overleaf.com/js/4542-09fbbd9e19a201587b06.js:1
+[-1735512ms] [WARNING] [bugsnag] unhandledrejection handler received a non-error: "object" @ https://cdn.overleaf.com/js/4542-09fbbd9e19a201587b06.js:1
+[       1ms] Object

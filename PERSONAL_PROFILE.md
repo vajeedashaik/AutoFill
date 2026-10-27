@@ -12,31 +12,31 @@
 
 | Field | Value |
 |---|---|
-| Full name | [FILL: FULL NAME] |
-| Preferred name | [FILL: PREFERRED NAME] |
-| First name | [FILL: FIRST NAME] |
-| Last name | [FILL: LAST NAME] |
-| Pronouns (optional) | [FILL: PRONOUNS OR "leave blank"] |
+| Full name | Shaik Vajeeda |
+| Preferred name | Shaik Vajeeda |
+| First name | Shaik |
+| Last name | Vajeeda |
+| Pronouns (optional) | She/Her |
 | Email | vajeeda.mastan@gmail.com |
-| Phone (with country code) | [FILL: PHONE NUMBER] |
-| City | [FILL: CITY] |
-| State | [FILL: STATE] |
-| Country | [FILL: COUNTRY] |
-| Postal / PIN code | [FILL: POSTAL CODE] |
-| Current location (as I want it written on forms) | [FILL: CURRENT LOCATION] |
-| Date of birth (only if a form requires it) | [FILL: DOB or "never share"] |
-| Nationality | [FILL: NATIONALITY] |
+| Phone (with country code) | +91 9042965067 |
+| City | Chennai |
+| State | Tamil Nadu |
+| Country | India |
+| Postal / PIN code | 603108 |
+| Current location (as I want it written on forms) | 14-2E, Cee Dee Yes, Nellikuppam Road, Ammapettai, Chennaipattinam |
+| Date of birth (only if a form requires it) | 27 May 2006 |
+| Nationality | Indian |
 
 ## 2. Professional Links
 
 | Link | URL |
 |---|---|
-| LinkedIn | [FILL: LINKEDIN URL] |
+| LinkedIn | https://www.linkedin.com/in/vajeeda-shaik-344774279/ |
 | GitHub | https://github.com/vajeedashaik |
-| Portfolio | [FILL: PORTFOLIO URL] |
-| Personal website | [FILL: WEBSITE URL] |
-| Resume PDF (local path for uploads) | [FILL: ABSOLUTE PATH TO RESUME PDF] |
-| HuggingFace | https://huggingface.co/vajeeda |
+| Portfolio | https://shaikvajeeda-portfolio.vercel.app/ |
+| Personal website | https://shaikvajeeda-portfolio.vercel.app/ |
+| Resume PDF (local path for uploads) | Will be putting manually |
+| HuggingFace | [FILL: URL] |
 | Other (Kaggle, LeetCode, Medium...) | [FILL: OTHER LINKS] |
 
 ## 3. Education
@@ -44,26 +44,36 @@
 Repeat this block for every degree / schooling stage a form may ask about.
 
 ### Education #1
-- Institution: [FILL: INSTITUTION]
-- Degree: [FILL: DEGREE]
-- Major: [FILL: MAJOR]
-- Specialization: [FILL: SPECIALIZATION]
-- Start date: [FILL: START DATE]
-- Expected graduation: [FILL: EXPECTED GRADUATION DATE]
-- CGPA (and scale): [FILL: CGPA / SCALE]
-- Percentage (if applicable): [FILL: PERCENTAGE]
-- Relevant coursework: [FILL: COURSES]
-- Academic achievements: [FILL: ACHIEVEMENTS]
+- Institution: SRM Institute Of Science & Technology Kattankulathur
+- Degree: B Tech
+- Major: Computer Science And Engineering
+- Specialization: Cloud Computing
+- Start date: June 2023
+- Expected graduation: May 2027
+- CGPA (and scale): 8.56
+- Percentage (if applicable): 85.6%
+- Relevant coursework: custom depending on the JD
+- Academic achievements: Microsoft Certified: Azure Data Fundamentals (DP-900), Conference: IEEE ICAFT 2025 Presenter – “Real-Time Traffic Prediction and Route Optimization Framework Using XATBoost Algorithm” (Paper Published), Leadership: HR Officer @ YUCI, ACM SIGAPP Management Team, Tech Member, NWC & IoT Alliance, Co-Speaker @ Agile Network India, Meta × HuggingFace × PyTorch National Hackathon Finalist among 70,000+
+participants, Tata Technologies National Hackathon Innovent Second Round among 20,000+ projects
 
 ### Education #2 (12th / diploma / etc.)
-- Institution: [FILL]
-- Board / degree: [FILL]
-- Years: [FILL]
-- Score: [FILL]
+- Institution: Vellammal Vidhyasharam Mambakkam
+- Board / degree: CBSE
+- Years: 2022-2023
+- Score: 78.4
 
 ## 4. Experience
 
 Repeat per internship / job. Do NOT duplicate project detail: reference the canonical project file instead.
+
+    1. IntoAEC – AI/Software Engineering Intern Dec 2025 – Jan 2026
+    • Developed and validated an AI-powered computer vision pipeline using Python to convert 2D
+    floor plans into structured building models, integrating image processing, geometry extraction,
+    and automated model generation.
+    2. Lean Impeccable Technologies – AI/Digital Solutions Intern May 2024 – Aug 2024
+    • Translated requirements from US-based client stakeholders into an IoT platform integrating
+    PostgreSQL, REST APIs, Property Management APIs, and LoRaWAN data for tenant,
+    occupancy, unit, and facility insights.
 
 ### Experience #1
 - Company: [FILL: COMPANY]

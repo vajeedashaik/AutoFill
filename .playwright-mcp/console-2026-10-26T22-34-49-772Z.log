@@ -1,0 +1,15 @@
+[-4526033ms] [WARNING]   WARN  [Statsig] Caught error in _writeToCache Object @ https://chatgpt.com/cdn/assets/226913.f2de3ceb87.js:4
+[-4524220ms] [WARNING]   WARN  [Statsig] Caught error in _writeToCache Object @ https://chatgpt.com/cdn/assets/226913.f2de3ceb87.js:4
+[-3729837ms] [ERROR] Executing inline script violates the following Content Security Policy directive 'script-src 'sha256-5OnC/c0sEfhMMvQuXMcrgJR+ftu16IOuoBLhR1w0rLA=' 'self' https://cdn.platform.openai.com/assets/dil/ 'unsafe-eval''. Either the 'unsafe-inline' keyword, a hash ('sha256-gYVghzd6eCteA5eqwhAHCs949L1rMfaZbTwP2O8iFis='), or a nonce ('nonce-...') is required to enable inline execution. The action has been blocked. @ https://cdn.platform.openai.com/deployments/dil/v14/runner.html:365
+[      21ms] SecurityError: Failed to read the 'localStorage' property from 'Window': The document is sandboxed and lacks the 'allow-same-origin' flag.
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/content_navigate_complete.js:23:455
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/content_navigate_complete.js:23:3615
+[      22ms] SecurityError: Failed to read the 'localStorage' property from 'Window': The document is sandboxed and lacks the 'allow-same-origin' flag.
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/iframe_form_check.js:23:455
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/iframe_form_check.js:23:5047
+[      24ms] SecurityError: Failed to read the 'localStorage' property from 'Window': The document is sandboxed and lacks the 'allow-same-origin' flag.
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/iframe_form_check.js:23:455
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/iframe_form_check.js:23:5047
+[      24ms] SecurityError: Failed to read the 'localStorage' property from 'Window': The document is sandboxed and lacks the 'allow-same-origin' flag.
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/iframe_form_check.js:23:455
+    at chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/scripts/iframe_form_check.js:23:5047

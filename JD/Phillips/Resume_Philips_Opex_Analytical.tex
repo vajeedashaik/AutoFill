@@ -1,0 +1,153 @@
+\documentclass[11pt]{extarticle}
+
+\usepackage[a4paper,left=0.55in,right=0.55in,top=0.45in,bottom=0.4in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[none]{hyphenat}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fontawesome5}
+
+%==================== PAGE & TEXT ====================
+
+\setlength{\parindent}{0pt}
+\renewcommand{\baselinestretch}{0.95}
+
+\setlist[itemize]{
+    noitemsep,
+    topsep=2pt,
+    parsep=0pt,
+    partopsep=0pt,
+    leftmargin=14pt
+}
+
+%==================== SECTION FORMATTING ====================
+
+\titleformat{\section}
+{\large\bfseries}
+{}{0em}{}
+[\titlerule]
+
+\titlespacing*{\section}{0pt}{5pt}{2pt}
+
+%==================== DOCUMENT ====================
+
+\begin{document}
+
+%==================== HEADER ====================
+
+\noindent
+{\LARGE\textbf{VAJEEDA SHAIK}}
+\hfill
+Data Analytics \textbar\ Python \textbar\ SQL \textbar\ Machine Learning
+\\[4pt]
+
+\small
+\faEnvelope\;
+\href{mailto:vajeeda.mastan@gmail.com}{vajeeda.mastan@gmail.com}
+\quad\textbar\quad
+\faPhone\; +91 9042965067
+\quad\textbar\quad
+\faGithub\;
+\href{https://github.com/vajeedashaik}{GitHub}
+\quad\textbar\quad
+\faLinkedin\;
+\href{https://www.linkedin.com/in/vajeeda-shaik-344774279}{LinkedIn}
+\quad\textbar\quad
+\faGlobe\;
+\href{https://shaikvajeeda-portfolio.vercel.app}{Portfolio}
+
+\normalsize
+
+%==================== SUMMARY ====================
+
+\section*{Summary}
+
+Computer Science (Cloud Computing) undergraduate who builds
+\textbf{data pipelines, machine learning models, and dashboards} in
+\textbf{Python and SQL}, from raw-data cleaning and feature engineering to validated
+models and interactive reports. Published at \textbf{IEEE ICAFT 2025}; \textbf{Azure DP-900} certified.
+
+%==================== EXPERIENCE ====================
+
+\section*{Experience}
+
+\textbf{IntoAEC} \hfill Dec 2025 -- Jan 2026 \\
+\textit{AI/Software Engineering Intern}
+
+\begin{itemize}
+    \item Developed and validated a \textbf{Python} computer-vision pipeline that converts 2D floor plans into structured building models, covering image processing, geometry extraction, and automated model generation.
+\end{itemize}
+
+\vspace{3pt}
+
+\textbf{Lean Impeccable Technologies} \hfill May 2024 -- Aug 2024 \\
+\textit{AI/Digital Solutions Intern}
+
+\begin{itemize}
+    \item Translated requirements from \textbf{US-based client stakeholders} into an IoT analytics platform integrating \textbf{PostgreSQL, REST APIs, property-management APIs, and LoRaWAN sensor data} to surface tenant, occupancy, unit, and facility insights.
+\end{itemize}
+
+%==================== PROJECTS ====================
+
+\section*{Selected Projects}
+
+\textbf{Urban Traffic Congestion Prediction -- ML Pipeline \& Dashboard}
+\hfill \textit{IEEE ICAFT 2025}
+
+\begin{itemize}
+    \item Cleaned 48K hourly sensor records with \textbf{pandas} (deduplication, median imputation of impossible readings, outlier clipping) and engineered \textbf{27 features}: lag and rolling volume, cyclical time encodings, weather, calendar.
+    \item Compared HistGradientBoosting, Random Forest, and ExtraTrees in \textbf{scikit-learn}; best model reached \textbf{93.7\% accuracy (0.937 weighted F1)} on a held-out 15\% split, with permutation importance showing lag and time-of-day features carry about 76\% of the signal.
+    \item Delivered an 11-page \textbf{Streamlit} dashboard (Plotly, Folium) on \textbf{Supabase}/CSV data with \textbf{Docker}, plus a 4-agent pipeline and 4 MCP servers (22 tools) for LLM querying.
+\end{itemize}
+
+\vspace{3pt}
+
+\textbf{PriceLens -- Zillow Zestimate Error Prediction}
+\hfill \textit{Stacked ensemble, 90K transactions}
+
+\begin{itemize}
+    \item Engineered 12 features (KMeans geo-clusters, leakage-safe 5-fold target encoding, cyclical month) and stacked \textbf{XGBoost, LightGBM, and CatBoost} under a Ridge meta-model on out-of-fold predictions: \textbf{CV RMSE 0.0742 vs 0.0791} for the Ridge baseline; tuned with \textbf{Optuna}, explained with \textbf{SHAP}.
+    \item Wrote a chunked batch-scoring pipeline (Parquet per county) and a \textbf{FastAPI} service with Pydantic validation; built an RMSE and feature-drift monitoring dashboard on synthetic data.
+\end{itemize}
+
+\vspace{3pt}
+
+\textbf{Groww Pulse -- Volatility-Normalised Market Change Digest}
+\hfill \textit{Solo hackathon build}
+
+\begin{itemize}
+    \item Built a 5-minute scheduled ingestion job (\textbf{Inngest}) loading Yahoo Finance and Finnhub quotes into \textbf{Supabase PostgreSQL}; added data-quality controls: staleness bands, cross-source conflict detection (price gap above 0.1\%), and row-level security.
+    \item Designed a scoring model ranking each change by its z-score against the stock's own 20-day volatility plus market, sector, and volume signals, feeding an Urgent/Notable/Routine digest; verified with scripted tests, with an isolated \textbf{Gemini} thesis check.
+\end{itemize}
+
+%==================== TECHNICAL SKILLS ====================
+
+\section*{Technical Skills}
+
+{\small
+
+\textbf{Programming \& Databases:} Python, SQL, T-SQL, PostgreSQL, Microsoft SQL Server, pandas, NumPy
+
+\textbf{Statistics \& Machine Learning:} Regression, Classification, Feature Engineering, Cross-Validation, Model Evaluation, Hyperparameter Tuning, SHAP, scikit-learn, XGBoost, LightGBM, CatBoost, Optuna
+
+\textbf{Data Pipelines \& Quality:} Data Cleaning, Data Validation, Batch and Scheduled Ingestion, Parquet, FastAPI, REST APIs, Docker, Git, Agile
+
+\textbf{Visualization \& Reporting:} Streamlit, Plotly, Folium, Recharts, Dashboards, Data Storytelling
+
+\textbf{Cloud \& AI:} Microsoft Azure (DP-900), AWS, Google Cloud (BigQuery), LLM APIs (Gemini, Claude), Multi-Agent Pipelines, MCP
+
+}
+
+%==================== EDUCATION & CERTIFICATIONS ====================
+
+\section*{Education \& Certifications}
+
+\textbf{B.Tech -- CSE (Cloud Computing), SRM Institute of Science and Technology}
+\hfill 2023 -- May 2027 \\
+\textbf{CGPA: 8.56} \quad\textbar\quad
+Azure Data Fundamentals (DP-900) \quad\textbar\quad
+Meta $\times$ Hugging Face $\times$ PyTorch Hackathon Finalist
+
+\end{document}
