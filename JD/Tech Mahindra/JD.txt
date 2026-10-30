@@ -1,0 +1,218 @@
+back to jobs
+Tech Mahindra
+
+View company
+Open For Applications
+Digital Catalyst (AI Engineer)
+Pan India
+Super Dream
+Full Time
+On Campus
+Male & Female
+2027
+Criteria
+Questions
+3,678
+Applicants
+Pipeline details unavailable
+
+₹10,00,000
+CTC
+Per Year
+
+1 day left
+Apply by
+29 Oct '26 by 10:00 AM
+
+9 Nov '26
+Date of visit
+Tentative
+
+Last modified by srmist_TeamD on Oct 28, 26, 4:33 PM and Created by Team D (Ganesh, Sriram, Akash, Rahul) on Oct 28, 26, 11:17 AM
+
+Notices
+Hiring Process
+
+1
+Application Screening
+Upcoming
+Yet To Start
+
+2
+Screening
+Upcoming
+Yet To Start
+
+3
+Pre Placement Talk
+Upcoming
+Yet To Start
+
+4
+Test
+Upcoming
+Yet To Start
+
+5
+Technical Interview
+Upcoming
+Yet To Start
+
+6
+HR Interview
+Upcoming
+Yet To Start
+About the Job
+Role:
+
+Digital Catalyst (AI Engineer)
+
+Eligibility:
+
+Courses: BTech, – Integrated, MTech
+
+Specialization: AI/ML, Applied Mathematics, CS, Data Science, ECE, IT)
+
+Academic Marks: 60% & above marks in X, XII, UG & PG
+
+Compensation:
+
+INR 8 LPA + INR 2 Lakh Retention Bonus (at the discretion of Tech Mahindra) 
+
+Location:
+
+PAN India (As per business requirements and organizational discretion)
+
+Job Role
+—
+
+Job & Internship Details
+Job
+
+Start date
+—
+Min hires
+—
+Expected offers
+—
+Internship
+
+Mode
+—
+Start date
+—
+Duration
+—
+Season
+—
+Skills Required
+—
+
+About Tech Mahindra
+Website
+techmahindra.com
+Attachments
+
+Digital Catalyst_JD.pdf
+Download
+
+
+Digital Catalyst - AI Engineer
+Build intelligent solutions. Scale enterprise impact.
+About Tech Mahindra
+Tech Mahindra is a leading provider of digital transformation, consulting, and business re-engineering services
+and solutions. With a presence in over 90 countries, helping 1100+ global customers, including Fortune 500
+companies. We are part of the Mahindra Group, one of the largest business conglomerates in India. Our
+mission is to help clients drive innovation, enhance efficiency, and deliver superior customer experience. With
+our promise to help our customers ‘scale at speed’, we design future state solutions for industry leaders and
+offer innovative digital experiences that enable them to transform and transition.
+Your opportunity to build what is next
+At Tech Mahindra, AI Engineers do more than train models. They turn ambitious ideas into reliable, responsible
+and scalable solutions for global enterprises. You will work with experienced technologists, domain experts
+and cross-functional teams to solve real business problems across industries, while learning how productiongrade AI is designed, tested, deployed and improved.
+If you enjoy coding, experimenting, questioning assumptions and converting data into decisions, this is
+where your AI journey can accelerate.
+About the Role
+You will be working closely with the internal business units of Tech Mahindra on high-impact client projects,
+wherein you will contribute towards pioneering research, coding, developing rapid applications/platforms and
+building technology enabled solutions.
+AI Solution Development
+• Implement machine learning and AI models as per solution designs
+• Support development of AI-driven features for applications and platforms
+• Convert analytical models into production-ready components
+Model Integration & Deployment
+• Integrate trained models with APIs, applications, and data pipelines
+• Support deployment of AI models on cloud or on-prem platforms
+• Assist in monitoring model performance and basic drift indicators
+Data & Pipeline Support
+• Work with data scientists and data engineers to support feature pipelines
+• Perform data preprocessing and transformation for AI use cases
+• Ensure data compatibility and reliability for model execution
+
+Testing & Optimization
+• Conduct functional testing of AI components and services
+• Support model optimization for performance, scalability, and latency
+• Assist in debugging issues related to inference and integrations
+Collaboration & Delivery
+• Collaborate with cross-functional teams including data science, engineering, and QA
+• Maintain documentation for AI components, workflows, and integrations
+• Adhere to AI engineering standards, security guidelines, and delivery timelines
+LOCATION PAN India
+The Foundation We Are Looking For
+Core Technical Skills
+• Programming proficiency in Python; working
+knowledge of Java, C++ or JavaScript is an
+advantage.
+• Good understanding of data structures,
+algorithms, OOP, DBMS and software
+engineering fundamentals.
+• Foundational knowledge of statistics,
+probability, linear algebra and machine learning.
+• Hands-on exposure to NumPy, pandas, scikitlearn and at least one deep learning framework
+such as PyTorch or TensorFlow.
+• Working knowledge of SQL, Git and REST APIs.
+• Ability to debug systematically and reason about
+accuracy, performance and trade-offs.
+AI-Ready Mindset
+• Curiosity to experiment and learn unfamiliar
+tools quickly.
+• Strong logical reasoning and structured problem
+solving.
+• Ownership, integrity and attention to data
+privacy and responsible AI.
+• Clear communication and willingness to
+collaborate across locations and disciplines.
+• Resilience when experiments fail and the
+discipline to learn from evidence.
+Eligibility
+Qualification B.E. / B.Tech. / M.E. / M.Tech. / Integrated M.Tech. / Integrated M.Sc. (5 years)
+Preferred disciplines
+Computer Science, Information Technology, Artificial Intelligence, Machine Learning, Data
+Science, Mathematics & Computing, Electronics and Communication, Electrical and allied
+computational disciplines.
+Experience Students Graduating in 2027 and candidates with up to 2 years of relevant experience.
+
+Academic criteria 50% or more throughout 10th, 12th, graduation & post-graduation (if applicable)
+Mobility
+Open to working from Tech Mahindra or client locations in India, depending on project
+requirements.
+Why Tech Mahindra
+BUILD FOR SCALE LEARN WITH EXPERTS GROW WITH PURPOSE
+Solving enterprise challenges where
+reliability, security and real-world
+outcomes matter.
+Work alongside experienced
+engineers, architects, domain
+specialists and global teams.
+Develop through hands-on
+assignments, feedback, learning
+pathways and internal career
+opportunities.
+Application Note
+Candidates should apply through the official campus process communicated by their institute. Role
+location, compensation, joining timeline, academic thresholds and selection stages will be governed by the
+applicable Tech Mahindra campus hiring communication and business requirements.
+COME AS YOU ARE. BUILD WHAT THE WORLD NEEDS NEXT.
+Tech Mahindra is committed to an inclusive workplace and evaluates applicants on job-relevant
+capability, potential and business requirements.
+For more information, visit: www.techmahindra.com
